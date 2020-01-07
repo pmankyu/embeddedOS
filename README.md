@@ -6,6 +6,8 @@
 
 [p.21 arm-none-eabi-gdb 설치 에러](https://852completed.tistory.com/93)
 
+[p.53 main.c 빌드 error](https://852completed.tistory.com/95)
+
 ## 명령어 모음
 
 * 17 Page (코드 3.2)
@@ -32,4 +34,12 @@ $ arm-none-eabi-objdump -D navilos.axf
 root 폴더에서 실행
 ```bash
 $ qemu-system-arm -M realview-pb-a8 -kernel navilos.axf -S -gdb tcp::1234,ipv4
+```
+
+* QEMU와 gdb 연동
+---
+```bash
+$ make gdb
+(gdb) target remote:1234
+(gdb) file build/navilos.axf
 ```
