@@ -10,6 +10,8 @@
 
 [p.73 kill QEMU](https://852completed.tistory.com/96)
 
+p.136 오타 : 코드 8.1은 task.c가 아니라 task.h 이다.
+
 ## 명령어 모음
 
 * 17 Page (코드 3.2)
