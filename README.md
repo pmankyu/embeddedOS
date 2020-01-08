@@ -8,6 +8,8 @@
 
 [p.53 main.c 빌드 error](https://852completed.tistory.com/95)
 
+[p.73 kill QEMU](https://852completed.tistory.com/96)
+
 ## 명령어 모음
 
 * 17 Page (코드 3.2)
