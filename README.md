@@ -1,5 +1,9 @@
 # embeddedOS 개발 프로젝트
 
+교재
+[임베디드 OS 개발 프로젝트(ARM 기반 펌웨어/RTOS의 원리와 구조)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262540&orderClick=LEa&Kc=)
+
+
 ## 삽질 모음
 
 [p.17 어셈블리어 소스 파일 컴파일 warning](https://852completed.tistory.com/92)
